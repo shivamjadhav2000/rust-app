@@ -1,0 +1,11 @@
+[package]
+name = "simple_app"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+# eframe is the framework that handles the window creation
+eframe = "0.27.0" 
+
+# chrono is used for getting the current time
+chrono = "0.4"
